@@ -1,2 +1,2 @@
-# 2020
-Repository with notebooks for Qiskit Challenge India 2020
+# QML MNIST Classification
+Repository with notebooks for MNIST classification using QML using various feature maps and quantum circuits
